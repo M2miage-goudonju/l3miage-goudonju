@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @l3miage-goudonju
 - 👀 I’m interested in programming softwares and having fun doing it.
-- 👀 Im looking for an internship of 3 months in all sort of programming ! 
-- 🌱 I’m currently learning Programming at IM2AG in L3-MIAGE.
+- 🌱 I’m currently learning Programming at IM2AG in M2-MIAGE.
 - 📫 How to reach me => justin.goudon@outlook.fr
 
 <!---
